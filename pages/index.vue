@@ -1,3 +1,4 @@
 <template>
-    Lading page
+  Lading page
+  <Button>Get Started</Button>
 </template>
