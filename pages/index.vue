@@ -1,0 +1,3 @@
+<template>
+    Lading page
+</template>
